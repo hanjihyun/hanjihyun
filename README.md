@@ -38,24 +38,17 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20AWS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira%20software&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
