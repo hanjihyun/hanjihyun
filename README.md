@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
@@ -52,17 +53,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-ReactNative-rgb(51,204,255)?style=flat-square&logo=ReactNative&logoColor=white"/></a>&nbsp
      <img src="https://img.shields.io/badge/-S3-rgb(51,204,255)?style=flat-square&logo=S3&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/-JPA-rgb(152,152,152)?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp
-     
-  ![issue_badge](https://img.shields.io/badge/-ReactNative-rgb(51,204,255)) 
-  ![issue_badge](https://img.shields.io/badge/-SpringBoot-limegreen) 
-  ![issue_badge](https://img.shields.io/badge/-MySql-blue)
-  ![issue_badge](https://img.shields.io/badge/-JPA-rgb(152,152,152)) 
-  ![issue_badge](https://img.shields.io/badge/-Nginx-mediumseagreen) 
-  ![issue_badge](https://img.shields.io/badge/-Docker-rgb(51,153,255)) 
-  ![issue_badge](https://img.shields.io/badge/-Jenkins-firebrick)  
-  ![issue_badge](https://img.shields.io/badge/-AWS-darkorange)  
-  ![issue_badge](https://img.shields.io/badge/-EC2-coral)  
-  ![issue_badge](https://img.shields.io/badge/-S3-tomato) 
 </p>
 <br>
 
