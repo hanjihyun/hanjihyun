@@ -49,6 +49,8 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira%20software&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-ReactNative-rgb(51,204,255)?style=flat-square&logo=ReactNative&logoColor=white"/></a>&nbsp
+    
   ![issue_badge](https://img.shields.io/badge/-ReactNative-rgb(51,204,255)) 
   ![issue_badge](https://img.shields.io/badge/-SpringBoot-limegreen) 
   ![issue_badge](https://img.shields.io/badge/-MySql-blue)
