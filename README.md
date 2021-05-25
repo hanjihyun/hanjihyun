@@ -49,6 +49,16 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira%20software&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/></a>&nbsp
+  ![issue_badge](https://img.shields.io/badge/-ReactNative-rgb(51,204,255)) 
+  ![issue_badge](https://img.shields.io/badge/-SpringBoot-limegreen) 
+  ![issue_badge](https://img.shields.io/badge/-MySql-blue)
+  ![issue_badge](https://img.shields.io/badge/-JPA-rgb(152,152,152)) 
+  ![issue_badge](https://img.shields.io/badge/-Nginx-mediumseagreen) 
+  ![issue_badge](https://img.shields.io/badge/-Docker-rgb(51,153,255)) 
+  ![issue_badge](https://img.shields.io/badge/-Jenkins-firebrick)  
+  ![issue_badge](https://img.shields.io/badge/-AWS-darkorange)  
+  ![issue_badge](https://img.shields.io/badge/-EC2-coral)  
+  ![issue_badge](https://img.shields.io/badge/-S3-tomato) 
 </p>
 <br>
 
