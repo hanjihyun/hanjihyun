@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=300&section=header&text=JiHyun%20Han&fontSize=85&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&fontColor=black&height=300&section=header&text=JiHyun%20Han&fontSize=85&animation=twinkling" />
 
 
 <h3 align="center">
