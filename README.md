@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
 </p>
-<br>
+<br> -->
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
