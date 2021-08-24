@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&fontColor=black&height=300&section=header&text=JiHyun%20Han&fontSize=85&animation=twinkling" />
 
-
+<!-- 
 <h3 align="center">
     <a href="https://www.notion.so/" style="color: black; text-decoration: none;"> 
 	View Resume
     </a>
-</h3>
+</h3> -->
 
 <br>
 
