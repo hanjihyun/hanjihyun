@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
   <a href="https://www.instagram.com/jih___h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung__xd/"/></a>&nbsp
-  <a href="mailto:gkswlgus96@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jomyounghee32@gmail.com"/></a>
+  <a href="mailto:imhere0808@naver.com"><img src="https://img.shields.io/badge/naver-d14836?style=flat-square&logo=naver&logoColor=white&link=jomyounghee32@naver.com"/></a>
 </p>
 <br>
 
