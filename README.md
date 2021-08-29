@@ -61,12 +61,12 @@ Here are some ideas to get you started:
   <a href="mailto:imhere0808@naver.com"><img src="https://img.shields.io/badge/naver-d14836?style=flat-square&logo=naver&logoColor=white&link=jomyounghee32@naver.com"/></a>
 </p>
 <br>
-
+<!-- 
 <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hanjihyun/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hanjihyun&show_icons=true&theme=flag-india&count_private=true"/></a>
-</p>
+</p> -->
 
