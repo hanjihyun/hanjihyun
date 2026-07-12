@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 </p>
 <br> -->
 
-<h3 align="center"> 🍒 Me 🍒 </h3>
+<!-- <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
   <a href="https://www.instagram.com/jih___h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung__xd/"/></a>&nbsp
   <a href="mailto:imhere0808@naver.com"><img src="https://img.shields.io/badge/naver-d14836?style=flat-square&logo=naver&logoColor=white&link=imhere0808@naver.com"/></a>
-</p>
+</p> -->
 <h3 align="center"> 🍒 My Portfolio 🍒 </h3>
 <p align="center">
   <a href="https://free-car-781.notion.site/Portfolio-4664a992e61642d7bc802cef9e358ca2"><img src="https://img.shields.io/badge/notion-E4405F?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.com/myoung__xd/"/></a>
